@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unchained-Oliver
+- 👋 Hi, I’m @Koushik Dasari
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning how to Build a software
 - 📫 How to reach me kousikdasari0475@gmail.com
