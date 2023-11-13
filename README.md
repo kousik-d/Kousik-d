@@ -16,13 +16,13 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kousik-d&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kousik-d&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 <!---
-Unchained-Oliver/Unchained-Oliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kousik-d/Kousik Dasari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
